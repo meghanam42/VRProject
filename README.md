@@ -1,4 +1,12 @@
 # VR Project
+## Google drive 
+As the university of uacklands submission cannot handle our vr project due to its size we have submitted links to our projects google drive.
+
+Anyone with a university of auckland account can access this google drive.
+
+https://drive.google.com/drive/folders/1M80OQd5rqWUjznMxooydXcG3rdWJ0ZME?usp=sharing
+
+This will have our project directory and our latest build
 
 ## Installation and Usage
 To start the game you must first plug in the oculus headset and make sure that the oculus link is active and that the 2 controllers are active. 

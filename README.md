@@ -35,3 +35,7 @@ The general functionality of this simulation is as follows:
 
 ## Differences to inital project plan
 There are not that many differences to our intial project plan, and we have predominantly stuck with our original aim of taking the user slowly through what a protest would look like, having a protestor within the environemnt talking directly with the user/player so that they feel more immersed and invovled within the protest.
+
+## Link To Wiki
+Within this GitHub Wiki we have some documentation in regards to the design of our simulation, group contributions, test cases, and challenges we have faced.
+https://github.com/mmot335/VRProject/wiki

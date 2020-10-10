@@ -1,8 +1,17 @@
 # VR Project
 
 ## Installation and Usage
+To start the game you must first plug in the oculus headset and make sure that the oculus link is active and that the 2 controllers are active. 
+Then in the project there will be 2 folders and in the "protest simulation build" folder there will be an executable file called "BLM simulation.exe" that you can double click 
+to run.
 
+For the usage of the game, 
 
+regarding movement we have implemented a teleportation system, where the user can push the right joystick in the direction you want to face after aiming the controller 
+then you can let go of the joystick to teleport. you can also turn 45 degreees using the left joystick.
+
+To start the simulation point and click the start button using A
+this will also be shown in the start menu tutorial with images.
 
 ## System Requirements
 Oculus Rift/Quest with Joystick controller will be needed as the functionality within the game needs access to the 'A' button on this joystick. We will provide this to the user when doing user testing.

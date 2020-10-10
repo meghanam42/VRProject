@@ -39,3 +39,7 @@ There are not that many differences to our intial project plan, and we have pred
 ## Link To Wiki
 Within this GitHub Wiki we have some documentation in regards to the design of our simulation, group contributions, test cases, and challenges we have faced.
 https://github.com/mmot335/VRProject/wiki
+
+## Link to Demo of simulation
+Attached here is a link to a video of a demo of the VR simulation for one to view.
+https://drive.google.com/file/d/1soJCdard4btx7P-dT7ETWRP2kLAT_d7p/view?usp=sharing

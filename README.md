@@ -1,6 +1,6 @@
 # VR Project
 ## Google drive 
-As the university of aucklands submission cannot handle our vr project due to its size we have submitted links to our projects google drive.
+We have submitted links to our projects google drive. it contains the same files as our implmentation submission
 
 Anyone with a university of auckland account can access this google drive.
 

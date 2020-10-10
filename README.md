@@ -2,7 +2,7 @@
 
 ## Installation and Usage
 To start the game you must first plug in the oculus headset and make sure that the oculus link is active and that the 2 controllers are active. 
-Then in the project there will be 2 folders and in the "protest simulation build" folder there will be an executable file called "BLM simulation.exe" that you can double click 
+Then in the project there will be 2 folders and in the "protest simulation build" folder there will be an executable file called "New Unity Project.exe" that you can double click 
 to run.
 
 For the usage of the game, 

@@ -2,8 +2,20 @@
 
 ## Installation and Usage
 
+
+
 ## System Requirements
 Oculus Rift/Quest with Joystick controller will be needed as the functionality within the game needs access to the 'A' button on this joystick. We will provide this to the user when doing user testing.
+
+Component |	Recommended Spec |	Minimum Spec
+----------|------------------|---------------
+Processor |	Intel i5-4590/AMD Ryzen 5 1500X or greater |	Intel i3-6100/AMD Ryzen 3 1200, FX4350 or greater
+Graphics Card |	NVIDIA GTX 1060/AMD Radeon RX 480 or greater |	NVIDIA GTX 1050 Ti/AMD Radeon RX 470 or greater
+Alternative Graphics Card |	NVIDIA GTX 970/AMD Radeon R9 290 or greater |	NVIDIA GTX 960 4 GB/AMD Radeon R9 290 or greater
+Memory |	8 GB+ RAM |	8 GB+ RAM
+Operating System |	Windows 10 |	Windows 10
+USB Ports |	1 x USB 3.0 port |	1 x USB 3.0 port
+Video Output |	Compatible DisplayPort video output |	Compatible Mini DisplayPort video output (Mini DisplayPort to DisplayPort adapter included with Rift S)
 
 ## General Functionality
 The general functionality of this simulation is as follows:

@@ -1,6 +1,6 @@
 # VR Project
 ## Google drive 
-We have submitted links to our projects google drive. it contains the same files as our implmentation submission
+We have submitted links to our projects google drive. It contains the same files as our implmentation submission.
 
 Anyone with a university of auckland account can access this google drive.
 
